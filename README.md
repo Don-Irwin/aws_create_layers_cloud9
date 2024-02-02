@@ -14,5 +14,5 @@ Don Irwin
 Run straight out of the box:
 
 ```
-git clone https://github.com/Don-Irwin/aws_create_layers_cloud9 && cd ./aws_create_layers_in_cloud9 && . aws_layer_helper.sh
+git clone https://github.com/Don-Irwin/aws_create_layers_cloud9 && cd $(pwd)/aws_create_layers_in_cloud9/ && . aws_layer_helper.sh
 ```
