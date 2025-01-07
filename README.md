@@ -9,7 +9,6 @@ This script takes care of the headache for you.
 Follow its prompts and enjoy.
 
 Don Irwin
--- Inspired by John Danson's work.
 
 Run straight out of the box:
 
